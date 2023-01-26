@@ -798,6 +798,8 @@ They include:
     single environment. It also provides several visualization
     functions, e.g. to show all labeled patches or the core area of all
     patches.
+-   `r pkg("crgeo")` package provides geospatial data of Costa Rica.
+-   `r pkg("cageo")` package provides geospatial data of Central America.  
 
 The `r view("Environmetrics")` Task View contains a much more
 complete survey of relevant functions and packages.
